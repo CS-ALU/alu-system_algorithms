@@ -19,7 +19,3 @@ FILE | DESCRIPTION
 [2. Traversal](./2-nary_tree-traverse.c) | Go through an N-ary tree node by node
 [3. Diameter](./3-nary_tree_diameter.c) | Computes the diameter of an N-ary tree
 [4. Path Exists](./4-path_exists.c) | Checks if a path exists in an N-ary tree
-
-
-## Author
-Thomas Graeff
